@@ -70,4 +70,7 @@ service.py - this is the microservice itself. It receives the request, reaches o
              and returns the cost of the specified lumber if it finds it.
 
 request.py - a simple example of how to utilize the microservice
+
+![IMG_3039](https://github.com/raimichick/cs361/assets/101148339/e4a6ca47-68b6-46a8-9b5b-c25910f20d0c)
+
                                                                                     
